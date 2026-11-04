@@ -406,3 +406,144 @@ TOTAL  $   131.63 $    -4.37  (start $140.00, Δ $-8.37)
 ========================================================================
 [2026-11-04 08:45:30 UTC] CLOSE | WIN  | XRP  | Down entry=0.9800 pnl=$+0.0408 cash=$21.18 | XRP Up or Down - November 4, 3:40AM-3:45AM ET
 [2026-11-04 08:45:30 UTC] CLOSE | WIN  | HYPE | Up entry=0.9600 pnl=$+0.0833 cash=$20.52 | Hyperliquid Up or Down - November 4, 3:40AM-3
+[2026-11-04 08:48:36 UTC] GITHUB | pushed reports/multi_paper_trades.txt → vasilyakhomenko/ai_data (main)
+[2026-11-04 08:48:55 UTC] OPEN  | PAPER | DOGE | Up   @ 0.9500 shares=2.11 cost=$2.00 cash=$19.51 move=$0.0005 (0.6412%) | 67s | Dogecoin Up or Down - November 4, 3:45AM-3:50
+[2026-11-04 08:48:56 UTC] OPEN  | PAPER | XRP  | Up   @ 0.7800 shares=2.56 cost=$2.00 cash=$19.18 move=$0.0089 (0.6989%) | 67s | XRP Up or Down - November 4, 3:45AM-3:50AM ET
+[2026-11-04 08:48:57 UTC] OPEN  | PAPER | SOL  | Up   @ 0.9300 shares=2.15 cost=$2.00 cash=$18.46 move=$0.3300 (0.3546%) | 68s | Solana Up or Down - November 4, 3:45AM-3:50AM
+
+========================================================================
+[2026-11-04 08:50:04 UTC] SUMMARY — virtual accounts (deposit $20.00 each)
+========================================================================
+ASSET        CASH        PnL  TRADES    W    L  STOP    WR%
+------------------------------------------------------------------------
+BTC    $    17.66 $    -2.34       6    4    2     2  66.7%
+ETH    $    17.88 $    -2.12       5    3    2     2  60.0%
+SOL    $    18.46 $    +0.46       5    5    0     0 100.0%
+XRP    $    19.18 $    +1.18       6    6    0     0 100.0%
+DOGE   $    19.51 $    +1.51       4    4    0     0 100.0%
+BNB    $    16.54 $    -3.46       5    2    3     3  40.0%
+HYPE   $    20.52 $    +0.52       4    4    0     0 100.0%
+------------------------------------------------------------------------
+TOTAL  $   129.75 $    -4.25  (start $140.00, Δ $-10.25)
+========================================================================
+[2026-11-04 08:50:32 UTC] CLOSE | WIN  | SOL  | Up entry=0.9300 pnl=$+0.1505 cash=$20.61 | Solana Up or Down - November 4, 3:45AM-3:50AM
+[2026-11-04 08:50:32 UTC] CLOSE | WIN  | XRP  | Up entry=0.7800 pnl=$+0.5641 cash=$21.75 | XRP Up or Down - November 4, 3:45AM-3:50AM ET
+[2026-11-04 08:50:32 UTC] CLOSE | WIN  | DOGE | Up entry=0.9500 pnl=$+0.1053 cash=$21.61 | Dogecoin Up or Down - November 4, 3:45AM-3:50
+[2026-11-04 08:53:56 UTC] OPEN  | PAPER | BNB  | Down @ 0.9500 shares=2.11 cost=$2.00 cash=$14.54 move=$0.3400 (0.0483%) | 65s | BNB Up or Down - November 4, 3:50AM-3:55AM ET
+[2026-11-04 08:53:57 UTC] OPEN  | PAPER | DOGE | Down @ 0.8300 shares=2.41 cost=$2.00 cash=$19.61 move=$0.0004 (0.5878%) | 66s | Dogecoin Up or Down - November 4, 3:50AM-3:55
+[2026-11-04 08:53:58 UTC] OPEN  | PAPER | XRP  | Up   @ 0.8800 shares=2.27 cost=$2.00 cash=$19.75 move=$0.0087 (0.6832%) | 66s | XRP Up or Down - November 4, 3:50AM-3:55AM ET
+[2026-11-04 08:53:59 UTC] OPEN  | PAPER | SOL  | Down @ 0.8800 shares=2.27 cost=$2.00 cash=$18.61 move=$0.3200 (0.3439%) | 66s | Solana Up or Down - November 4, 3:50AM-3:55AM
+[2026-11-04 08:54:09 UTC] OPEN  | PAPER | BTC  | Up   @ 0.8300 shares=2.41 cost=$2.00 cash=$15.66 move=$349.8600 (0.4477%) | 53s | Bitcoin Up or Down - November 4, 3:50AM-3:55A
+[2026-11-04 08:54:19 UTC] CLOSE | STOP | SOL  | Down entry=0.8800 exit=0.2600 pnl=$-1.4091 cash=$19.20 | 41s | Solana Up or Down - November 4, 3:50AM-3
+
+========================================================================
+[2026-11-04 08:55:05 UTC] SUMMARY — virtual accounts (deposit $20.00 each)
+========================================================================
+ASSET        CASH        PnL  TRADES    W    L  STOP    WR%
+------------------------------------------------------------------------
+BTC    $    15.66 $    -2.34       6    4    2     2  66.7%
+ETH    $    17.88 $    -2.12       5    3    2     2  60.0%
+SOL    $    19.20 $    -0.80       7    6    1     1  85.7%
+XRP    $    19.75 $    +1.75       7    7    0     0 100.0%
+DOGE   $    19.61 $    +1.61       5    5    0     0 100.0%
+BNB    $    14.54 $    -3.46       5    2    3     3  40.0%
+HYPE   $    20.52 $    +0.52       4    4    0     0 100.0%
+------------------------------------------------------------------------
+TOTAL  $   127.16 $    -4.84  (start $140.00, Δ $-12.84)
+========================================================================
+[2026-11-04 08:55:25 UTC] CLOSE | WIN  | BTC  | Up entry=0.8300 pnl=$+0.4096 cash=$18.07 | Bitcoin Up or Down - November 4, 3:50AM-3:55A
+[2026-11-04 08:55:25 UTC] CLOSE | WIN  | XRP  | Up entry=0.8800 pnl=$+0.2727 cash=$22.02 | XRP Up or Down - November 4, 3:50AM-3:55AM ET
+[2026-11-04 08:55:25 UTC] CLOSE | WIN  | DOGE | Down entry=0.8300 pnl=$+0.4096 cash=$22.02 | Dogecoin Up or Down - November 4, 3:50AM-3:55
+[2026-11-04 08:55:25 UTC] CLOSE | WIN  | BNB  | Down entry=0.9500 pnl=$+0.1053 cash=$16.64 | BNB Up or Down - November 4, 3:50AM-3:55AM ET
+[2026-11-04 08:58:55 UTC] OPEN  | PAPER | HYPE | Down @ 0.7700 shares=2.60 cost=$2.00 cash=$18.52 move=$1.5020 (1.7621%) | 65s | Hyperliquid Up or Down - November 4, 3:55AM-4
+[2026-11-04 08:58:56 UTC] OPEN  | PAPER | BNB  | Down @ 0.9800 shares=2.04 cost=$2.00 cash=$14.64 move=$1.1000 (0.1564%) | 66s | BNB Up or Down - November 4, 3:55AM-4:00AM ET
+[2026-11-04 08:58:59 UTC] SKIP  | BTC Down=0.9990 (~100%) | Bitcoin Up or Down - November 4, 3:55AM-4:00AM ET
+
+========================================================================
+[2026-11-04 09:00:04 UTC] SUMMARY — virtual accounts (deposit $20.00 each)
+========================================================================
+ASSET        CASH        PnL  TRADES    W    L  STOP    WR%
+------------------------------------------------------------------------
+BTC    $    18.07 $    -1.93       7    5    2     2  71.4%
+ETH    $    17.88 $    -2.12       5    3    2     2  60.0%
+SOL    $    19.20 $    -0.80       7    6    1     1  85.7%
+XRP    $    22.02 $    +2.02       8    8    0     0 100.0%
+DOGE   $    22.02 $    +2.02       6    6    0     0 100.0%
+BNB    $    14.64 $    -3.36       6    3    3     3  50.0%
+HYPE   $    18.52 $    +0.52       4    4    0     0 100.0%
+------------------------------------------------------------------------
+TOTAL  $   132.36 $    -3.64  (start $140.00, Δ $-7.64)
+========================================================================
+[2026-11-04 09:00:31 UTC] CLOSE | WIN  | BNB  | Down entry=0.9800 pnl=$+0.0408 cash=$16.68 | BNB Up or Down - November 4, 3:55AM-4:00AM ET
+[2026-11-04 09:00:32 UTC] CLOSE | WIN  | HYPE | Down entry=0.7700 pnl=$+0.5974 cash=$21.12 | Hyperliquid Up or Down - November 4, 3:55AM-4
+[2026-11-04 09:03:54 UTC] OPEN  | PAPER | HYPE | Down @ 0.8600 shares=2.33 cost=$2.00 cash=$19.12 move=$0.2530 (0.2914%) | 66s | Hyperliquid Up or Down - November 4, 4:00AM-4
+[2026-11-04 09:04:00 UTC] CLOSE | STOP | HYPE | Down entry=0.8600 exit=0.1500 pnl=$-1.6512 cash=$19.47 | 60s | Hyperliquid Up or Down - November 4, 4:0
+
+========================================================================
+[2026-11-04 09:05:02 UTC] SUMMARY — virtual accounts (deposit $20.00 each)
+========================================================================
+ASSET        CASH        PnL  TRADES    W    L  STOP    WR%
+------------------------------------------------------------------------
+BTC    $    18.07 $    -1.93       7    5    2     2  71.4%
+ETH    $    17.88 $    -2.12       5    3    2     2  60.0%
+SOL    $    19.20 $    -0.80       7    6    1     1  85.7%
+XRP    $    22.02 $    +2.02       8    8    0     0 100.0%
+DOGE   $    22.02 $    +2.02       6    6    0     0 100.0%
+BNB    $    16.68 $    -3.32       7    4    3     3  57.1%
+HYPE   $    19.47 $    -0.53       6    5    1     1  83.3%
+------------------------------------------------------------------------
+TOTAL  $   135.35 $    -4.65  (start $140.00, Δ $-4.65)
+========================================================================
+[2026-11-04 09:09:00 UTC] SKIP  | HYPE filter recheck Down fresh=0.9900 | Hyperliquid Up or Down - November 4, 4:05AM-4:10AM
+[2026-11-04 09:09:02 UTC] OPEN  | PAPER | XRP  | Up   @ 0.9800 shares=2.04 cost=$2.00 cash=$20.02 move=$0.0007 (0.0547%) | 62s | XRP Up or Down - November 4, 4:05AM-4:10AM ET
+[2026-11-04 09:09:02 UTC] OPEN  | PAPER | SOL  | Down @ 0.9800 shares=2.04 cost=$2.00 cash=$17.20 move=$0.1900 (0.2037%) | 62s | Solana Up or Down - November 4, 4:05AM-4:10AM
+[2026-11-04 09:09:03 UTC] OPEN  | PAPER | ETH  | Down @ 0.8600 shares=2.33 cost=$2.00 cash=$15.88 move=$3.1400 (0.1352%) | 62s | Ethereum Up or Down - November 4, 4:05AM-4:10
+[2026-11-04 09:09:08 UTC] SKIP  | HYPE Down=0.9900 (~100%) | Hyperliquid Up or Down - November 4, 4:05AM-4:10AM ET
+[2026-11-04 09:09:08 UTC] OPEN  | PAPER | DOGE | Up   @ 0.7600 shares=2.63 cost=$2.00 cash=$20.02 move=$0.0001 (0.1994%) | 53s | Dogecoin Up or Down - November 4, 4:05AM-4:10
+[2026-11-04 09:09:27 UTC] CLOSE | STOP | ETH  | Down entry=0.8600 exit=0.0500 pnl=$-1.8837 cash=$16.00 | 33s | Ethereum Up or Down - November 4, 4:05AM
+
+========================================================================
+[2026-11-04 09:10:03 UTC] SUMMARY — virtual accounts (deposit $20.00 each)
+========================================================================
+ASSET        CASH        PnL  TRADES    W    L  STOP    WR%
+------------------------------------------------------------------------
+BTC    $    18.07 $    -1.93       7    5    2     2  71.4%
+ETH    $    16.00 $    -4.00       6    3    3     3  50.0%
+SOL    $    17.20 $    -0.80       7    6    1     1  85.7%
+XRP    $    20.02 $    +2.02       8    8    0     0 100.0%
+DOGE   $    20.02 $    +2.02       6    6    0     0 100.0%
+BNB    $    16.68 $    -3.32       7    4    3     3  57.1%
+HYPE   $    19.47 $    -0.53       6    5    1     1  83.3%
+------------------------------------------------------------------------
+TOTAL  $   127.46 $    -6.54  (start $140.00, Δ $-12.54)
+========================================================================
+[2026-11-04 09:10:31 UTC] CLOSE | WIN  | SOL  | Down entry=0.9800 pnl=$+0.0408 cash=$19.24 | Solana Up or Down - November 4, 4:05AM-4:10AM
+[2026-11-04 09:10:31 UTC] CLOSE | WIN  | XRP  | Up entry=0.9800 pnl=$+0.0408 cash=$22.06 | XRP Up or Down - November 4, 4:05AM-4:10AM ET
+[2026-11-04 09:10:31 UTC] CLOSE | WIN  | DOGE | Up entry=0.7600 pnl=$+0.6316 cash=$22.65 | Dogecoin Up or Down - November 4, 4:05AM-4:10
+[2026-11-04 09:13:54 UTC] OPEN  | PAPER | DOGE | Up   @ 0.8800 shares=2.27 cost=$2.00 cash=$20.65 move=$0.0001 (0.1329%) | 68s | Dogecoin Up or Down - November 4, 4:10AM-4:15
+[2026-11-04 09:13:55 UTC] OPEN  | PAPER | XRP  | Down @ 0.7100 shares=2.82 cost=$2.00 cash=$20.06 move=$0.0002 (0.0156%) | 68s | XRP Up or Down - November 4, 4:10AM-4:15AM ET
+[2026-11-04 09:13:57 UTC] OPEN  | PAPER | ETH  | Up   @ 0.8900 shares=2.25 cost=$2.00 cash=$14.00 move=$1.8100 (0.0779%) | 69s | Ethereum Up or Down - November 4, 4:10AM-4:15
+[2026-11-04 09:13:57 UTC] OPEN  | PAPER | BTC  | Up   @ 0.8500 shares=2.35 cost=$2.00 cash=$16.07 move=$70.4800 (0.0898%) | 70s | Bitcoin Up or Down - November 4, 4:10AM-4:15A
+[2026-11-04 09:14:02 UTC] OPEN  | PAPER | SOL  | Up   @ 0.8400 shares=2.38 cost=$2.00 cash=$17.24 move=$0.1500 (0.1608%) | 60s | Solana Up or Down - November 4, 4:10AM-4:15AM
+[2026-11-04 09:14:15 UTC] SKIP  | BNB Up=0.9990 (~100%) | BNB Up or Down - November 4, 4:10AM-4:15AM ET
+[2026-11-04 09:14:41 UTC] CLOSE | STOP | XRP  | Down entry=0.7100 exit=0.2000 pnl=$-1.4366 cash=$20.62 | 18s | XRP Up or Down - November 4, 4:10AM-4:15
+
+========================================================================
+[2026-11-04 09:15:04 UTC] SUMMARY — virtual accounts (deposit $20.00 each)
+========================================================================
+ASSET        CASH        PnL  TRADES    W    L  STOP    WR%
+------------------------------------------------------------------------
+BTC    $    16.07 $    -1.93       7    5    2     2  71.4%
+ETH    $    14.00 $    -4.00       6    3    3     3  50.0%
+SOL    $    17.24 $    -0.76       8    7    1     1  87.5%
+XRP    $    20.62 $    +0.62      10    9    1     1  90.0%
+DOGE   $    20.65 $    +2.65       7    7    0     0 100.0%
+BNB    $    16.68 $    -3.32       7    4    3     3  57.1%
+HYPE   $    19.47 $    -0.53       6    5    1     1  83.3%
+------------------------------------------------------------------------
+TOTAL  $   124.74 $    -7.26  (start $140.00, Δ $-15.26)
+========================================================================
+[2026-11-04 09:15:32 UTC] CLOSE | WIN  | BTC  | Up entry=0.8500 pnl=$+0.3529 cash=$18.42 | Bitcoin Up or Down - November 4, 4:10AM-4:15A
+[2026-11-04 09:15:32 UTC] CLOSE | WIN  | ETH  | Up entry=0.8900 pnl=$+0.2472 cash=$16.24 | Ethereum Up or Down - November 4, 4:10AM-4:15
+[2026-11-04 09:15:32 UTC] CLOSE | WIN  | SOL  | Up entry=0.8400 pnl=$+0.3810 cash=$19.63 | Solana Up or Down - November 4, 4:10AM-4:15AM
+[2026-11-04 09:15:32 UTC] CLOSE | WIN  | DOGE | Up entry=0.8800 pnl=$+0.2727 cash=$22.93 | Dogecoin Up or Down - November 4, 4:10AM-4:15
