@@ -4,3 +4,9 @@
 [2026-11-14 08:32:35 UTC] START DOGE-join LIVE=False MAKER=True size=$1.0 thr=0.92-0.99 ≤40s
 [2026-11-14 08:32:38 UTC] CLOSE | UNK  | UP   entry=0.9900 pnl=$0.0000 (no final price) | cash=+0.00 | Dogecoin Up or Down - November 14, 2:50AM-2:55AM ET
 [2026-11-14 08:32:38 UTC] CLOSE | UNK  | UP   entry=0.9300 pnl=$0.0000 (no final price) | cash=+0.00 | Dogecoin Up or Down - November 14, 3:10AM-3:15AM ET
+[2026-11-14 08:34:55 UTC] SKIP  | no book prices | 4s left | Dogecoin Up or Down - November 14, 3:30AM-3:35AM ET
+[2026-11-14 08:39:20 UTC] SKIP  | max<0.92 Up=0.300 Down=0.730 | 39s left | Dogecoin Up or Down - November 14, 3:35AM-3:40AM ET
+[2026-11-14 08:44:55 UTC] SKIP  | no book prices | 4s left | Dogecoin Up or Down - November 14, 3:40AM-3:45AM ET
+[2026-11-14 08:49:55 UTC] SKIP  | no book prices | 4s left | Dogecoin Up or Down - November 14, 3:45AM-3:50AM ET
+[2026-11-14 08:54:55 UTC] SKIP  | no book prices | 4s left | Dogecoin Up or Down - November 14, 3:50AM-3:55AM ET
+[2026-11-14 08:58:50 UTC] START DOGE-join LIVE=True MAKER=False size=$1.0 thr=0.92-0.99 ≤40s
