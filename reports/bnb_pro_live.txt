@@ -1,2 +1,6 @@
 [2026-11-14 07:54:20 UTC] START DOGE-join LIVE=False MAKER=False size=$1.0 thr=0.92-0.99 ≤40s
 [2026-11-14 07:54:24 UTC] OPEN  | TAKER | UP   @ 0.9900 shares=1.01 order=DRY-BUY-1794642864 | 36s left | Dogecoin Up or Down - November 14, 2:50AM-2:55AM ET
+[2026-11-14 08:14:33 UTC] OPEN  | TAKER | UP   @ 0.9300 shares=1.08 order=DRY-BUY-1794644073 | 27s left | Dogecoin Up or Down - November 14, 3:10AM-3:15AM ET
+[2026-11-14 08:32:35 UTC] START DOGE-join LIVE=False MAKER=True size=$1.0 thr=0.92-0.99 ≤40s
+[2026-11-14 08:32:38 UTC] CLOSE | UNK  | UP   entry=0.9900 pnl=$0.0000 (no final price) | cash=+0.00 | Dogecoin Up or Down - November 14, 2:50AM-2:55AM ET
+[2026-11-14 08:32:38 UTC] CLOSE | UNK  | UP   entry=0.9300 pnl=$0.0000 (no final price) | cash=+0.00 | Dogecoin Up or Down - November 14, 3:10AM-3:15AM ET
