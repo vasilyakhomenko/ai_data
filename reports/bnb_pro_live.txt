@@ -1,0 +1,7 @@
+[2026-11-14 06:45:32 UTC] START BNB-pro LIVE=False size=$1.0 maxE=0.32 thr<40 cut≥85 force≤60s poll=0.25s
+[2026-11-14 06:48:05 UTC] START BNB-pro LIVE=False size=$1.0 maxE=0.32 thr<40 cut≥85 force≤60s poll=0.25s
+[2026-11-14 06:48:08 UTC] WATCH | 112s left | BNB Up or Down - November 14, 1:45AM-1:50AM ET
+[2026-11-14 06:48:08 UTC] OPEN  | DOWN @ 0.0500 shares=20.0 order=DRY-BUY-1794638888 | BNB Up or Down - November 14, 1:45AM-1:50AM ET
+[2026-11-14 06:48:08 UTC] CLOSE | CUT   | DOWN entry=0.0500 exit=0.0400 pnl=$-0.0100 order=DRY-SELL-1794638888 | BNB Up or Down - November 14, 1:45AM-1:50AM ET
+[2026-11-14 06:48:08 UTC] WATCH | 412s left | BNB Up or Down - November 14, 1:50AM-1:55AM ET
+[2026-11-14 06:48:08 UTC] WATCH | 711s left | BNB Up or Down - November 14, 1:55AM-2:00AM ET
