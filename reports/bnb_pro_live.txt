@@ -131,3 +131,9 @@
 [2026-11-14 16:44:20 UTC] SKIP  | max<0.92 Up=0.300 Down=0.730 | 40s left | Dogecoin Up or Down - November 14, 11:40AM-11:45AM ET
 [2026-11-14 16:49:55 UTC] SKIP  | no book prices | 5s left | Dogecoin Up or Down - November 14, 11:45AM-11:50AM ET
 [2026-11-14 16:54:55 UTC] SKIP  | no book prices | 4s left | Dogecoin Up or Down - November 14, 11:50AM-11:55AM ET
+[2026-11-14 16:59:55 UTC] SKIP  | no book prices | 4s left | Dogecoin Up or Down - November 14, 11:55AM-12:00PM ET
+[2026-11-14 17:04:20 UTC] SKIP  | max<0.92 Up=0.150 Down=0.890 | 40s left | Dogecoin Up or Down - November 14, 12:00PM-12:05PM ET
+[2026-11-14 17:09:55 UTC] SKIP  | no book prices | 5s left | Dogecoin Up or Down - November 14, 12:05PM-12:10PM ET
+[2026-11-14 17:14:55 UTC] SKIP  | no book prices | 5s left | Dogecoin Up or Down - November 14, 12:10PM-12:15PM ET
+[2026-11-14 17:19:55 UTC] SKIP  | no book prices | 5s left | Dogecoin Up or Down - November 14, 12:15PM-12:20PM ET
+[2026-11-14 17:24:55 UTC] SKIP  | no book prices | 4s left | Dogecoin Up or Down - November 14, 12:20PM-12:25PM ET
