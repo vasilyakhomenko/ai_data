@@ -3,3 +3,4 @@
 [2026-11-15 07:45:30 UTC] OPEN  | PAIR sum=0.930 lock≈0.070 Up@0.350 Down@0.580 | 269s left | Ethereum Up or Down - November 15, 2:45AM-2:50AM ET
 [2026-11-15 07:50:00 UTC] CLOSE | FULL | outcome=DOWN entry Up=0.350 Down=0.580 pnl=$+0.1449 | cash=+0.14 full/part=1/0 | Ethereum Up or Down - November 15, 2:45AM-2:50AM ET
 [2026-11-15 08:00:32 UTC] START ETH-pair LIVE=True MAKER=True size=$1.2/leg sum<=0.95
+[2026-11-15 09:54:05 UTC] ERROR | pair order failed: order 0xe999162f3005f2f2a3393a3d72f5edf57870428ef82b6a907f0818becb670071 is invalid. Size (2.11) lower than the minimum: 5 | Ethereum Up or Down - November 15, 4:50AM-4:55AM ET
