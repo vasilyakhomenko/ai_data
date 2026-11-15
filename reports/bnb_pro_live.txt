@@ -377,3 +377,11 @@
 [2026-11-15 12:39:55 UTC] SKIP  | no book prices | 4s left | Dogecoin Up or Down - November 15, 7:35AM-7:40AM ET
 [2026-11-15 12:44:55 UTC] SKIP  | no book prices | 5s left | Dogecoin Up or Down - November 15, 7:40AM-7:45AM ET
 [2026-11-15 12:49:20 UTC] SKIP  | max<0.92 Up=0.540 Down=0.510 | 40s left | Dogecoin Up or Down - November 15, 7:45AM-7:50AM ET
+[2026-11-15 12:54:55 UTC] SKIP  | no book prices | 4s left | Dogecoin Up or Down - November 15, 7:50AM-7:55AM ET
+[2026-11-15 12:59:55 UTC] SKIP  | no book prices | 4s left | Dogecoin Up or Down - November 15, 7:55AM-8:00AM ET
+[2026-11-15 13:04:21 UTC] OPEN  | TAKER | DOWN @ 0.9900 shares=1.31 order=0x956f38e6328c031c32897a08cc06df87ec1a264500103803cf3e225104a25cb9 | 40s left | Dogecoin Up or Down - November 15, 8:00AM-8:05AM ET
+[2026-11-15 13:05:00 UTC] CLOSE | WIN  | DOWN entry=0.9900 outcome=DOWN final Up=0.010 Down=0.990 pnl=$+0.0131 | cash=-1.33 W/L=32/2 | Dogecoin Up or Down - November 15, 8:00AM-8:05AM ET
+[2026-11-15 13:09:55 UTC] SKIP  | no book prices | 5s left | Dogecoin Up or Down - November 15, 8:05AM-8:10AM ET
+[2026-11-15 13:14:55 UTC] SKIP  | no book prices | 5s left | Dogecoin Up or Down - November 15, 8:10AM-8:15AM ET
+[2026-11-15 13:19:27 UTC] OPEN  | TAKER | UP   @ 0.9900 shares=1.31 order=0xc8560aa34b3a599e69cc689e07bc5729c6d175af31e98c5171b3a9d4c3b38b14 | 33s left | Dogecoin Up or Down - November 15, 8:15AM-8:20AM ET
+[2026-11-15 13:20:01 UTC] CLOSE | WIN  | UP   entry=0.9900 outcome=UP final Up=0.990 Down=0.010 pnl=$+0.0131 | cash=-1.32 W/L=33/2 | Dogecoin Up or Down - November 15, 8:15AM-8:20AM ET
