@@ -307,3 +307,11 @@
 [2026-11-15 05:14:55 UTC] SKIP  | no book prices | 5s left | Dogecoin Up or Down - November 15, 12:10AM-12:15AM ET
 [2026-11-15 05:19:55 UTC] SKIP  | no book prices | 5s left | Dogecoin Up or Down - November 15, 12:15AM-12:20AM ET
 [2026-11-15 05:24:55 UTC] SKIP  | no book prices | 5s left | Dogecoin Up or Down - November 15, 12:20AM-12:25AM ET
+[2026-11-15 05:29:55 UTC] SKIP  | no book prices | 5s left | Dogecoin Up or Down - November 15, 12:25AM-12:30AM ET
+[2026-11-15 05:34:55 UTC] SKIP  | no book prices | 5s left | Dogecoin Up or Down - November 15, 12:30AM-12:35AM ET
+[2026-11-15 05:39:21 UTC] ERROR | buy failed: order 0xc59de024eac0e10d90f5b5e8dd984b703c4e6703178053c79d5779669a5c43c3 is invalid. Size (1.31) lower than the minimum: 5 | Dogecoin Up or Down - November 15, 12:35AM-12:40AM ET
+[2026-11-15 05:39:56 UTC] SKIP  | no book prices | 4s left | Dogecoin Up or Down - November 15, 12:35AM-12:40AM ET
+[2026-11-15 05:44:20 UTC] SKIP  | max<0.92 Up=0.310 Down=0.700 | 39s left | Dogecoin Up or Down - November 15, 12:40AM-12:45AM ET
+[2026-11-15 05:49:55 UTC] SKIP  | no book prices | 5s left | Dogecoin Up or Down - November 15, 12:45AM-12:50AM ET
+[2026-11-15 05:54:21 UTC] OPEN  | TAKER | DOWN @ 0.9200 shares=1.41 order=0xd490ff4ff47c79605d46fbb900a16bda76603d7a8d6367bc782f2071098785c5 | 40s left | Dogecoin Up or Down - November 15, 12:50AM-12:55AM ET
+[2026-11-15 05:55:00 UTC] CLOSE | WIN  | DOWN entry=0.9200 outcome=DOWN final Up=0.010 Down=0.990 pnl=$+0.1130 | cash=-1.49 W/L=29/2 | Dogecoin Up or Down - November 15, 12:50AM-12:55AM ET
